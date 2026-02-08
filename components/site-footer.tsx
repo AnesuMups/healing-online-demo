@@ -11,7 +11,7 @@ export function SiteFooter() {
               <div className="flex h-8 w-8 items-center justify-center rounded-lg bg-primary">
                 <Heart className="h-4 w-4 text-primary-foreground" />
               </div>
-              <span className="text-lg font-bold text-foreground">Healing Online</span>
+              <span className="text-lg font-bold text-foreground">Global Healer Online</span>
             </div>
             <p className="text-sm leading-relaxed text-muted-foreground">
               Professional healthcare consultations from the comfort of your home. Affordable, accessible, and compassionate care for everyone.
@@ -37,14 +37,14 @@ export function SiteFooter() {
           <div>
             <h4 className="mb-3 text-sm font-semibold text-foreground">Contact</h4>
             <div className="flex flex-col gap-2 text-sm text-muted-foreground">
-              <p>support@healingonline.com</p>
+              <p>support@Global Healeronline.com</p>
               <p>+1 (555) 123-4567</p>
               <p>Mon - Fri, 8am - 6pm</p>
             </div>
           </div>
         </div>
         <div className="mt-10 border-t border-border pt-6 text-center text-sm text-muted-foreground">
-          {"2026 Healing Online. All rights reserved."}
+          {"2026 Global Healer Online. All rights reserved."}
         </div>
       </div>
     </footer>

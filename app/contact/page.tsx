@@ -57,7 +57,7 @@ export default function ContactPage() {
 
               <div className="mt-8 flex flex-col gap-6">
                 {[
-                  { icon: <Mail className="h-5 w-5" />, label: "Email", value: "support@healingonline.com" },
+                  { icon: <Mail className="h-5 w-5" />, label: "Email", value: "support@Global Healeronline.com" },
                   { icon: <Phone className="h-5 w-5" />, label: "Phone", value: "+1 (555) 123-4567" },
                   { icon: <MapPin className="h-5 w-5" />, label: "Office", value: "123 Health Street, Medical District" },
                 ].map((item) => (

@@ -12,7 +12,7 @@ export default function AboutPage() {
       <main className="flex-1">
         <section className="bg-primary px-4 py-20">
           <div className="mx-auto max-w-7xl text-center">
-            <h1 className="text-4xl font-bold text-primary-foreground md:text-5xl">About Healing Online</h1>
+            <h1 className="text-4xl font-bold text-primary-foreground md:text-5xl">About Global Healer Online</h1>
             <p className="mx-auto mt-4 max-w-2xl text-lg text-primary-foreground/80">
               We are on a mission to make quality healthcare accessible to everyone, everywhere, through the power of technology.
             </p>
@@ -24,7 +24,7 @@ export default function AboutPage() {
             <div>
               <h2 className="text-3xl font-bold text-foreground">Our Story</h2>
               <p className="mt-4 leading-relaxed text-muted-foreground">
-                Healing Online was founded with a simple belief: everyone deserves access to quality healthcare regardless of their location or economic status. Our platform connects patients with qualified medical professionals who provide thorough consultations, accurate diagnoses, and personalized treatment plans.
+                Global Healer Online was founded with a simple belief: everyone deserves access to quality healthcare regardless of their location or economic status. Our platform connects patients with qualified medical professionals who provide thorough consultations, accurate diagnoses, and personalized treatment plans.
               </p>
               <p className="mt-4 leading-relaxed text-muted-foreground">
                 We have served over 2,000 patients across multiple regions, offering comprehensive care that ranges from general consultations to specialized treatments for chronic diseases, respiratory conditions, dermatological issues, and much more.

@@ -29,7 +29,7 @@ export function SiteHeader() {
             <Heart className="h-5 w-5 text-primary-foreground" />
           </div>
           <span className="text-xl font-bold text-foreground">
-            Healing <span className="text-primary">Online</span>
+            Global Healer <span className="text-primary">Online</span>
           </span>
         </Link>
 

@@ -102,7 +102,7 @@ export default function HomePage() {
         <section className="bg-muted/30 px-4 py-20">
           <div className="mx-auto max-w-7xl">
             <div className="text-center">
-              <h2 className="text-balance text-3xl font-bold text-foreground">How Healing Online Works</h2>
+              <h2 className="text-balance text-3xl font-bold text-foreground">How Global Healer Online Works</h2>
               <p className="mt-3 text-muted-foreground">Get started in three simple steps</p>
             </div>
             <div className="mt-12 grid gap-8 md:grid-cols-3">
@@ -158,7 +158,7 @@ export default function HomePage() {
           <div className="mx-auto max-w-7xl">
             <div className="grid items-center gap-12 lg:grid-cols-2">
               <div>
-                <h2 className="text-balance text-3xl font-bold text-foreground">Why Patients Choose Healing Online</h2>
+                <h2 className="text-balance text-3xl font-bold text-foreground">Why Patients Choose Global Healer Online</h2>
                 <p className="mt-4 leading-relaxed text-muted-foreground">
                   We combine modern technology with compassionate care to deliver healthcare that is accessible, affordable, and effective.
                 </p>
@@ -229,7 +229,7 @@ export default function HomePage() {
           <div className="mx-auto max-w-3xl text-center">
             <h2 className="text-balance text-3xl font-bold text-primary-foreground">Ready to Take Control of Your Health?</h2>
             <p className="mt-4 text-primary-foreground/80">
-              Join thousands of patients who trust Healing Online for their healthcare needs. Start with a free consultation today.
+              Join thousands of patients who trust Global Healer Online for their healthcare needs. Start with a free consultation today.
             </p>
             <Button size="lg" variant="secondary" className="mt-8 gap-2 text-base" asChild>
               <Link href="/register">

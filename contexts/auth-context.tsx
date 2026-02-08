@@ -23,7 +23,7 @@ interface AuthContextType {
   logout: () => void
 }
 
-const AUTH_STORAGE_KEY = "healing-online-auth"
+const AUTH_STORAGE_KEY = "Global Healer-online-auth"
 
 const AuthContext = createContext<AuthContextType | undefined>(undefined)
 

@@ -50,7 +50,7 @@ export default function LoginPage() {
               <Heart className="h-6 w-6 text-primary-foreground" />
             </div>
             <CardTitle className="text-2xl text-foreground">Welcome Back</CardTitle>
-            <p className="text-sm text-muted-foreground">Sign in to your Healing Online account</p>
+            <p className="text-sm text-muted-foreground">Sign in to your Global Healer Online account</p>
           </CardHeader>
           <CardContent className="p-6 pt-0">
             <Tabs value={role} onValueChange={(v) => setRole(v as UserRole)} className="mb-6">

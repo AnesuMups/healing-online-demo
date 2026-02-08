@@ -1,5 +1,5 @@
 // ==========================================
-// Healing Online - Simulated API Layer
+// Global Healer Online - Simulated API Layer
 // Replace these functions with real API calls
 // when connecting to a backend.
 // ==========================================
@@ -230,7 +230,7 @@ const mockCategories: HealthCategory[] = [
 ]
 
 const mockTestimonials: Testimonial[] = [
-  { id: "1", name: "Mary K.", text: "Healing Online has completely changed how I manage my diabetes. The consultations are thorough and the doctors genuinely care.", rating: 5 },
+  { id: "1", name: "Mary K.", text: "Global Healer Online has completely changed how I manage my diabetes. The consultations are thorough and the doctors genuinely care.", rating: 5 },
   { id: "2", name: "Peter O.", text: "Quick, professional, and affordable. I got the care I needed from the comfort of my home.", rating: 5 },
   { id: "3", name: "Grace N.", text: "The family plan is incredible value. All five of us are covered and the support is amazing.", rating: 4 },
 ]

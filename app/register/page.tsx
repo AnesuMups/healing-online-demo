@@ -143,7 +143,7 @@ export default function RegisterPage() {
                   <Heart className="h-6 w-6 text-primary-foreground" />
                 </div>
                 <CardTitle className="text-2xl text-foreground">Create Your Account</CardTitle>
-                <p className="text-sm text-muted-foreground">Join Healing Online today</p>
+                <p className="text-sm text-muted-foreground">Join Global Healer Online today</p>
               </CardHeader>
               <CardContent className="p-6 pt-0">
                 <form onSubmit={handleAccountSubmit} className="flex flex-col gap-4">
@@ -315,7 +315,7 @@ export default function RegisterPage() {
                 <div className="mb-4 flex h-20 w-20 items-center justify-center rounded-full bg-secondary">
                   <CheckCircle2 className="h-10 w-10 text-primary" />
                 </div>
-                <h2 className="text-2xl font-bold text-foreground">Welcome to Healing Online!</h2>
+                <h2 className="text-2xl font-bold text-foreground">Welcome to Global Healer Online!</h2>
                 <p className="mt-2 text-muted-foreground">
                   Your account has been created and payment was successful.
                 </p>

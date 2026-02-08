@@ -8,7 +8,7 @@ const _inter = Inter({ subsets: ["latin"], variable: "--font-inter" })
 const _dmSans = DM_Sans({ subsets: ["latin"], variable: "--font-dm-sans" })
 
 export const metadata: Metadata = {
-  title: "Healing Online - Your Healthcare, Reimagined",
+  title: "Global Healer Online - Your Healthcare, Reimagined",
   description:
     "Professional healthcare consultations from the comfort of your home. Affordable membership plans, expert medical advice, and comprehensive care.",
 }
